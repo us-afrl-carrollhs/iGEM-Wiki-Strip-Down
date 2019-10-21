@@ -25,6 +25,10 @@ width:100%;
 
 .mw-body {width100% !important;}
 
+#globalWrapper {padding-bottom:0px;}
+
+#HQ_page p {margin-bottom:0px;}
+
 </style>
 
 </html>
